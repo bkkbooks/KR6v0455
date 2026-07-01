@@ -1,0 +1,612 @@
+canonical_identifier: bkk:krp/KR6v0455/v1
+canonical_location: https://kanripo.org/bkk/KR6v0455/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 中華大藏經總目錄
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B35/B35n0194.xml
+    old_id: B35n0194
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0455_001.yaml, hash: 'sha256:78eabb026ecea68a85edc7137f798b9baf8ac729822f62431a5ba85e0fdf5c4d'}
+  - {seq: 2, filename: KR6v0455_002.yaml, hash: 'sha256:5ec7b3b8aef40fadf8efb0297804c5c283b5998428b735b7565987d454417e95'}
+  - {seq: 3, filename: KR6v0455_003.yaml, hash: 'sha256:85d4bf004f5f1e286820cea477a43425b2c65612c21b90b1c679e0a1ba5a9a22'}
+  - {seq: 4, filename: KR6v0455_004.yaml, hash: 'sha256:a4f51543534e987d6a03d4dc52fcb1ba621723ac3aa773b05371ef7c3b91e60c'}
+  - {seq: 5, filename: KR6v0455_005.yaml, hash: 'sha256:ea69241f90681b6f6fd110a175d81c346cf0fdcf9d86ea73a503dcd7bc3e6a7e'}
+  - {seq: 6, filename: KR6v0455_006.yaml, hash: 'sha256:fdfe9b61e81cdd9ed606fd7ba2b268b71ebf22b5bc7b4f4699bd945d6e31f898'}
+  - {seq: 7, filename: KR6v0455_007.yaml, hash: 'sha256:ee1a5bb7c73e8e6892f80f7db4f5bb91e4d0d0d0ee94668d614a05fb4aefdaff'}
+  - {seq: 8, filename: KR6v0455_008.yaml, hash: 'sha256:046b044ab87c62927678beb7b76daa25c8f2a307d2643956e4aa07ba2712db2d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0455_001.markers.yaml, hash: 'sha256:3dd5d231e74f14d3218cba735c181c62d2d4d216878b6eca4a27e86584d7d93f'}
+  - {seq: 2, role: markers, filename: assets/KR6v0455_002.markers.yaml, hash: 'sha256:e516df5fe4b18d505890184a53e7e411705fb483d526c94381a23b777414ad4d'}
+  - {seq: 3, role: markers, filename: assets/KR6v0455_003.markers.yaml, hash: 'sha256:4ba4b406407125df19fa325d513f7635457b7ca00414f04788b443109ce60095'}
+  - {seq: 4, role: markers, filename: assets/KR6v0455_004.markers.yaml, hash: 'sha256:8e380f9b4595205a0b32f64fa7cca20e293faab12022c637f024d98c1d580d94'}
+  - {seq: 5, role: markers, filename: assets/KR6v0455_005.markers.yaml, hash: 'sha256:45ba60e8fdf6a6e387e4e4803dfb1c8f139b606276588c89b112808638ec7c76'}
+  - {seq: 6, role: markers, filename: assets/KR6v0455_006.markers.yaml, hash: 'sha256:ac0e8702892942896f3db98aeac50e7e710a3e6d0305dc1e40629fed7e2e89bd'}
+  - {seq: 7, role: markers, filename: assets/KR6v0455_007.markers.yaml, hash: 'sha256:eae4d5ab57bb087309f698684cc273b05a93a31b3cbde63054285e7d904437ff'}
+  - {seq: 8, role: markers, filename: assets/KR6v0455_008.markers.yaml, hash: 'sha256:eff94288afa52b9997dcf8872dfc70899e6a706af23fc8410f9b983475a0deda'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 18127
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-2
+    span:
+    - body
+    - 489
+    - 489
+  label: 中華大藏經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-3
+    span:
+    - body
+    - 489
+    - 489
+  label: 序一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-4
+    span:
+    - body
+    - 1074
+    - 1074
+  label: 序二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-5
+    span:
+    - body
+    - 1313
+    - 1313
+  label: 序三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-6
+    span:
+    - body
+    - 1751
+    - 1751
+  label: 序四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-7
+    span:
+    - body
+    - 2527
+    - 2527
+  label: 序五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-8
+    span:
+    - body
+    - 3238
+    - 3238
+  label: 序六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-9
+    span:
+    - body
+    - 3841
+    - 3841
+  label: 序七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-10
+    span:
+    - body
+    - 4418
+    - 4418
+  label: 序八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-11
+    span:
+    - body
+    - 6973
+    - 6973
+  label: 序九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-12
+    span:
+    - body
+    - 8444
+    - 8444
+  label: 修訂中華大藏經緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-13
+    span:
+    - body
+    - 8989
+    - 8989
+  label: 修訂中華大藏經會章程
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-14
+    span:
+    - body
+    - 10076
+    - 10076
+  label: 中華大藏經四大法類修訂綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-15
+    span:
+    - body
+    - 10116
+    - 10116
+  label: 一、選藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-16
+    span:
+    - body
+    - 10324
+    - 10324
+  label: 二、續藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-17
+    span:
+    - body
+    - 10365
+    - 10365
+  label: 三、譯藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-18
+    span:
+    - body
+    - 10401
+    - 10401
+  label: 四、總目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-19
+    span:
+    - body
+    - 10488
+    - 10488
+  label: 修訂中華大藏經會成立大會宣言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-20
+    span:
+    - body
+    - 10944
+    - 10944
+  label: 修訂中華大藏經會成立大會致詞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-21
+    span:
+    - body
+    - 11622
+    - 11622
+  label: 修訂中華大藏經會籌備工作報告
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-22
+    span:
+    - body
+    - 11636
+    - 11636
+  label: 甲、修藏發起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-23
+    span:
+    - body
+    - 11982
+    - 11982
+  label: 乙、修藏組會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-24
+    span:
+    - body
+    - 12234
+    - 12234
+  label: 丙、新藏建立
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-25
+    span:
+    - body
+    - 12568
+    - 12568
+  label: 丁、修藏經費
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-26
+    span:
+    - body
+    - 12931
+    - 12931
+  label: 戌、會所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0455_B_001-mulu-27
+    span:
+    - body
+    - 12966
+    - 12966
+  label: 中華大藏經編目通例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0455_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 41290
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0455_B_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 中華大藏經第一輯磧砂藏及宋藏遺珍編目說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0455_B_002-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: 編目說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0455_B_002-mulu-3
+    span:
+    - body
+    - 3711
+    - 3711
+  label: 附錄：記美國普林斯敦大學的葛思德東方書庫藏的磧砂藏經原本原刊大陸雜誌第十九卷第十期
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0455_B_002-mulu-4
+    span:
+    - body
+    - 7434
+    - 7434
+  label: 中華大藏經第一輯磧砂藏校訂目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0455_B_002-mulu-5
+    span:
+    - body
+    - 39987
+    - 39987
+  label: 中華大藏經第一輯宋藏遺珍校訂目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0455_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 61463
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0455_B_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 中華大藏經第二輯嘉興正續藏編目說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0455_B_003-mulu-2
+    span:
+    - body
+    - 3159
+    - 3159
+  label: 中華大藏經第二輯嘉興藏校訂對照目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0455_B_003-mulu-3
+    span:
+    - body
+    - 40318
+    - 40318
+  label: 中華大藏經第二輯嘉興續藏又續藏及藏外校訂目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0455_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 102019
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0455_B_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 中華大藏經第三輯日本卍字正續藏編目說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0455_B_004-mulu-2
+    span:
+    - body
+    - 3123
+    - 3123
+  label: 中華大藏經第三輯日本卍字藏校訂對照目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0455_B_004-mulu-3
+    span:
+    - body
+    - 43519
+    - 43519
+  label: 中華大藏經第三輯日本卍字續藏校訂對照目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0455_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 31944
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0455_B_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 中華大藏經第四輯編目說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0455_B_005-mulu-2
+    span:
+    - body
+    - 1544
+    - 1544
+  label: 中華大藏經第四輯目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0455_B_005-mulu-3
+    span:
+    - body
+    - 16721
+    - 16721
+  label: 中華大藏經綜合補錄目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0455_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 41613
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0455_B_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 中華大藏經續藏編目說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0455_B_006-mulu-2
+    span:
+    - body
+    - 2566
+    - 2566
+  label: 中華大藏經續藏總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0455_B_006-mulu-3
+    span:
+    - body
+    - 2756
+    - 2756
+  label: 中華大藏經續藏目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0455_B_007-juan-start
+    span:
+    - body
+    - 0
+    - 841
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0455_B_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 中華大藏經譯藏編目說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0455_B_007-mulu-2
+    span:
+    - body
+    - 142
+    - 142
+  label: 中華大藏經譯藏目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0455_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 2878
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0455_B_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 中華大藏經總目錄編目說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0455_B_008-mulu-2
+    span:
+    - body
+    - 662
+    - 662
+  label: 中華大藏經總目錄目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0455_B_008-mulu-3
+    span:
+    - body
+    - 2126
+    - 2126
+  label: 刊印中華大藏經首編書後
+  type: mulu
+  level: 1
+hash: sha256:7f224b977eb01849f93dd91e2e6d63eaef2917066bae4818c5b20f6973a506f8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
